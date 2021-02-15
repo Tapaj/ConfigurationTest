@@ -1,0 +1,1 @@
+# Quadratyx Central Configuration Repository
